@@ -13,7 +13,7 @@ print(type('Pablo'))
 print(type(10))
 print(type(3.14))
 print(type(1 + 1j))
-print(type(True))
+print(type(True
 print(type([1, 2, 3, 4]))
 print(type({'name':'Pablo':'17':250, 'is_married':250}))
 print(type((1,2)))
@@ -25,9 +25,8 @@ number_one = 4
 number_two = 8
 suma = number_one + number_two
 resta = number_one - number_two
-number_one / number_two
-number_one % number_two = 4
-number_one ** number_two = 65536
+división = number_one / number_two 
+exponente = number_one ** number_two
 number_one // number_two = 0
 
  π = 3.14
@@ -50,5 +49,3 @@ number_one // number_two = 0
  print(country=Spain)
 
  help ("keywords")
- False               class             from                or
-
