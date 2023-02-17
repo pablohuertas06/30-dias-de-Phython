@@ -15,4 +15,3 @@ print(company)
 
 remove_coding = company[7:15]
 print(remove_coding)
-
